@@ -44,5 +44,10 @@ Benchmark results are saved to results/benchmark_results.csv. Repeat with 1,000,
 In repository Settings > Pages, select GitHub Actions. The workflow deploys after pushes to main.
 Website: https://tonylopes103-afk.github.io/parking-camera-violation-analyzer/
 
-## Academic note
-Understand and test all code, and follow your instructor's AI policy. The technical paper, actual experiments, charts, CLO A-D reflections, and presentation still need to be completed and explained by you.
+## Academic project documents
+- [Technical paper draft](docs/TECHNICAL_PAPER.md) — full written analysis; add your actual benchmark measurements in the marked places.
+- [Presentation content](presentation/SLIDE_PRESENTATION.md) — 12-slide presentation with speaker notes and demo checklist.
+- [Experiment worksheet](docs/EXPERIMENT_RESULTS.md) — record real dataset sizes, timings, and observations.
+- [Algorithm notes](docs/ALGORITHM_NOTES.md) — pseudocode, correctness, and complexity.
+
+The paper and presentation are prepared as drafts from the project implementation. Before submitting, run the code, insert your own actual benchmark evidence, verify the dataset details, add your name, and follow your instructor's AI-use and citation policies.
